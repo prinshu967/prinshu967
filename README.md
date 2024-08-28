@@ -30,7 +30,7 @@
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **prinshu5520@gmail.com** && **ankush@mackph.com**
+- 📫 Reach me at : **prinshu5520@gmail.com** && **prinshu967@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
@@ -63,7 +63,7 @@ technologies to meet future requirements.</br>
  - 📍 **D.A.V Public School, Bachra**------------------**< 2019-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **D.A.V Public School, Bachra**------------------**< 2014-2019 >**\
+ - 📍 **D.A.V Public School, Bachra**------------------**< 2018-2019 >**\
    📖**Secondary Schooling**
  
    
