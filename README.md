@@ -104,7 +104,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/_prinshu_kumar_)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prinshu967&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Prinshu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prinshu967&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinshu967&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
 
 
