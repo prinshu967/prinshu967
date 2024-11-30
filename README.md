@@ -53,40 +53,7 @@ technologies to meet future requirements.</br>
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
-<details>
-   <summary>📃 Resume</summary>
 
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
- 📖**Bachelor's of technology-<Computer Science & Engineering>**
- 
- - 📍 **D.A.V Public School, Bachra**------------------**< 2019-2021 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **D.A.V Public School, Bachra**------------------**< 2018-2019 >**\
-   📖**Secondary Schooling**
- 
-   
-   
-   
- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
-
-   </details>
    
 ### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
