@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Prinshu Kumar](https://www.linkedin.com/in/prinshu-kumar-b958401b0/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-"Currently growing my skillset in Machine Learning and Data Science  with a strong foundation in programming. Proficient in various languages such as Python, Javascript, and C++. Passionate about exploring the intersections of programming and AI to create innovative solutions. Constantly learning and building projects to challenge my coding abilities. Open to collaborations and eager to contribute to exciting projects. Let's connect and make the world smarter together!  #MachineLearning #DataScience #AI #Python  #C++"
+"Currently growing my skillset in Machine Learning and Deep Leraning  with a strong foundation in programming. Proficient in various languages such as Python, Javascript, and C++. Passionate about exploring the intersections of programming and AI to create innovative solutions. Constantly learning and building projects to challenge my coding abilities. Open to collaborations and eager to contribute to exciting projects. Let's connect and make the world smarter together!  #MachineLearning #DataScience #AI #Python  #C++"
 
 
 
